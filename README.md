@@ -1,4 +1,3 @@
-# hotel-room-booking-management
 # HOTEL-ROOMS-BOOKING-MANAGEMEMT
 #include <stdio.h>
 #include <stdlib.h>
